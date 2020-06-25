@@ -7,12 +7,9 @@ public class FirstPersonMovement : MonoBehaviour
     // Reference the character controller
 	public CharacterController controller;
 	
-
-	// Control the speed of movement
 	public float speed = 12f;
-	
-	// make gravity
 	public float gravity = -9.81f;
+	public float jumpHeight = 3f;
 	
 	public Transform GroundCheck;
 	public float GroundDistance = 0.4f;
@@ -41,6 +38,12 @@ public class FirstPersonMovement : MonoBehaviour
 		Vector3 move = transform.right * x + transform.forward * z;
 		
 		controller.Move(move * speed * Time.deltaTime);
+		
+		// Jumping... somehow
+		if(Input.GetButtonDown("Jump") && isGrounded)
+		{
+			velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+		}
 		
 		// Allow the player to fall
 		velocity.y += gravity * Time.deltaTime;

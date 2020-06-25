@@ -13470,6 +13470,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: sidewalk (7)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
 --- !u!1001 &404877532
@@ -17849,6 +17854,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: sidewalk
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
@@ -23411,6 +23421,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: sidewalk (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
@@ -34428,6 +34443,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: sidewalk (8)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
 --- !u!1001 &988980105
@@ -37855,6 +37875,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: sidewalk (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
@@ -45918,7 +45943,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1303217293}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1b02898aab4d17a4aa96e6704b96f06e, type: 3}
   m_Name: 
@@ -45986,7 +46011,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1303217293}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0953084b42cbc6e499a51a6ede654d57, type: 3}
   m_Name: 
@@ -53761,6 +53786,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: sidewalk (5)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
 --- !u!1001 &1471181070
@@ -54109,6 +54139,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: sidewalk (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
@@ -61923,6 +61958,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: sidewalk (10)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
 --- !u!1001 &1658630672
@@ -64429,6 +64469,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: sidewalk (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
@@ -70552,6 +70597,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: sidewalk (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
 --- !u!1001 &1908459454
@@ -71242,6 +71292,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: sidewalk (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0129eef2bb2ab4f4ca4b115c9262e6ad, type: 3}
@@ -74215,7 +74270,7 @@ GameObject:
   - component: {fileID: 2033712151}
   - component: {fileID: 2033712150}
   - component: {fileID: 2033712149}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74961,6 +75016,7 @@ GameObject:
   - component: {fileID: 2049232139}
   - component: {fileID: 2049232138}
   - component: {fileID: 2049232141}
+  - component: {fileID: 2049232140}
   m_Layer: 0
   m_Name: First Person Player
   m_TagString: Untagged
@@ -75003,6 +75059,23 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2049232140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2049232137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b02898aab4d17a4aa96e6704b96f06e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clampInDegrees: {x: 360, y: 10}
+  lockCursor: 0
+  sensitivity: {x: 2, y: 2}
+  smoothing: {x: 3, y: 3}
+  targetDirection: {x: 0, y: 0}
 --- !u!114 &2049232141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -75016,13 +75089,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 2049232138}
-  speed: 12
+  speed: 3
   gravity: -9.81
+  jumpHeight: 3
   GroundCheck: {fileID: 2039945036}
   GroundDistance: 0.4
   GroundMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
 --- !u!1001 &2050368213
 PrefabInstance:
   m_ObjectHideFlags: 0
