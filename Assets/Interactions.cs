@@ -3,7 +3,7 @@
 public class Interactions : MonoBehaviour
 {
 	public FirstPersonMovement movement;
-	
+	public GameManagerS1 gameManager;
 	
 	void OnCollisionEnter(Collision col)
 	{
