@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManagerS1 : MonoBehaviour
 {
+	
     public void EndGame()
 	{
 		Restart();
