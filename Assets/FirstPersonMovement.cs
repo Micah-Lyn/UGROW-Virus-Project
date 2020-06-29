@@ -39,12 +39,6 @@ public class FirstPersonMovement : MonoBehaviour
 		
 		controller.Move(move * speed * Time.deltaTime);
 		
-		// Jumping... somehow
-		if(Input.GetButtonDown("Jump") && isGrounded)
-		{
-			velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
-		}
-		
 		// Allow the player to fall
 		velocity.y += gravity * Time.deltaTime;
 		
